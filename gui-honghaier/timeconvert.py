@@ -51,7 +51,7 @@ Button_9= tkinter.Button(root,text="转换为时间戳",width = 10,height = 4)
 Button_9.place(x = 125,y = 368,width = 100,height = 28)
 Button_9.configure(command =timeconvert_cmd.Button_9)
 timeconvert_cmd.G_UIElementArray['Button_9']=Button_9
-Label_10= tkinter.Label(root,text="聚牛Beta时间转换工具 1.0 - powerby 红孩儿 GUI Editor QQ群:100180960",width = 10,height = 4)
+Label_10= tkinter.Label(root,text="时间转换工具 1.0 - powerby yangugoliang in 聚通达",width = 10,height = 4)
 Label_10.place(x = 42,y = 15,width = 437,height = 20)
 timeconvert_cmd.G_UIElementArray['Label_10']=Label_10
 root.mainloop()
